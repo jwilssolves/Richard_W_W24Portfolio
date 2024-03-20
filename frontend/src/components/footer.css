@@ -1,0 +1,12 @@
+.footer {
+    background-color: #007bff; 
+    padding: 1.5rem;
+    margin-top: 2rem; 
+  }
+  
+  .footer-text {
+    color: white; 
+    text-align: center; 
+    font-size: 0.875rem;
+  }
+  
